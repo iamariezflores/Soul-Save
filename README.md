@@ -9,4 +9,6 @@ Requisite:
 After Launching the Software, navigate to System->Preferrences and Modify the Path(s), the software automatically detects the correct path,
 verify that the path(s) is correct.
 
+Download the Release here: 
 
+https://github.com/iamariezflores/Soul-Save/releases/tag/v1.0.0.1
